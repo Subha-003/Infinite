@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|assignment_2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|c:\\users\\subhashinima\\downloads\\infinite\\c#\\assignments\\assignment_2\\assignment_2\\compare_wrd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|solutionrelative:assignment_2\\compare_wrd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|c:\\users\\subhashinima\\downloads\\infinite\\c#\\assignments\\assignment_2\\assignment_2\\reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|solutionrelative:assignment_2\\reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|c:\\users\\subhashinima\\downloads\\infinite\\c#\\assignments\\assignment_2\\assignment_2\\len_wrd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|solutionrelative:assignment_2\\len_wrd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|c:\\users\\subhashinima\\downloads\\infinite\\c#\\assignments\\assignment_2\\assignment_2\\avg_mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|solutionrelative:assignment_2\\avg_mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|c:\\infinite\\c#\\assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|c:\\users\\subhashinima\\downloads\\infinite\\c#\\assignments\\assignment_2\\assignment_2\\repeat_num.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|solutionrelative:assignment_2\\repeat_num.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|c:\\users\\subhashinima\\downloads\\infinite\\c#\\assignments\\assignment_2\\assignment_2\\day_num.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|solutionrelative:assignment_2\\day_num.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB014C9F-B79E-4556-94BF-32D872EDADDA}|assignment_2\\assignment_2.csproj|c:\\users\\subhashinima\\downloads\\infinite\\c#\\assignments\\assignment_2\\assignment_2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "compare_wrd.cs",
+              "DocumentMoniker": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\compare_wrd.cs",
+              "RelativeDocumentMoniker": "assignment_2\\compare_wrd.cs",
+              "ToolTip": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\compare_wrd.cs*",
+              "RelativeToolTip": "assignment_2\\compare_wrd.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:45:15.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "reverse.cs",
+              "DocumentMoniker": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\reverse.cs",
+              "RelativeDocumentMoniker": "assignment_2\\reverse.cs",
+              "ToolTip": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\reverse.cs",
+              "RelativeToolTip": "assignment_2\\reverse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:44:10.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "len_wrd.cs",
+              "DocumentMoniker": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\len_wrd.cs",
+              "RelativeDocumentMoniker": "assignment_2\\len_wrd.cs",
+              "ToolTip": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\len_wrd.cs",
+              "RelativeToolTip": "assignment_2\\len_wrd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:42:33.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "repeat_num.cs",
+              "DocumentMoniker": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\repeat_num.cs",
+              "RelativeDocumentMoniker": "assignment_2\\repeat_num.cs",
+              "ToolTip": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\repeat_num.cs",
+              "RelativeToolTip": "assignment_2\\repeat_num.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:40:05.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "day_num.cs",
+              "DocumentMoniker": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\day_num.cs",
+              "RelativeDocumentMoniker": "assignment_2\\day_num.cs",
+              "ToolTip": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\day_num.cs",
+              "RelativeToolTip": "assignment_2\\day_num.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:37:22.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "assignment_2",
+              "DocumentMoniker": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\assignment_2.csproj",
+              "RelativeDocumentMoniker": "assignment_2\\assignment_2.csproj",
+              "ToolTip": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\assignment_2.csproj*",
+              "RelativeToolTip": "assignment_2\\assignment_2.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-26T17:36:17.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "avg_mark.cs",
+              "DocumentMoniker": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\avg_mark.cs",
+              "RelativeDocumentMoniker": "assignment_2\\avg_mark.cs",
+              "ToolTip": "C:\\Users\\subhashinima\\Downloads\\infinite\\C#\\Assignments\\assignment_2\\assignment_2\\avg_mark.cs",
+              "RelativeToolTip": "assignment_2\\avg_mark.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:33:13.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\infinite\\C#\\Assignments\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\infinite\\C#\\Assignments\\Program.cs",
+              "ToolTip": "C:\\infinite\\C#\\Assignments\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\infinite\\C#\\Assignments\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:31:00.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

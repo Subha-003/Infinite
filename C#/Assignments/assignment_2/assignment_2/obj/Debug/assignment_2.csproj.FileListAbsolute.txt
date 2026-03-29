@@ -1,0 +1,7 @@
+C:\Users\subhashinima\Downloads\infinite\C#\Assignments\assignment_2\assignment_2\obj\Debug\assignment_2.csproj.AssemblyReference.cache
+C:\Users\subhashinima\Downloads\infinite\C#\Assignments\assignment_2\assignment_2\obj\Debug\assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\subhashinima\Downloads\infinite\C#\Assignments\assignment_2\assignment_2\bin\Debug\assignment_2.exe.config
+C:\Users\subhashinima\Downloads\infinite\C#\Assignments\assignment_2\assignment_2\bin\Debug\assignment_2.exe
+C:\Users\subhashinima\Downloads\infinite\C#\Assignments\assignment_2\assignment_2\bin\Debug\assignment_2.pdb
+C:\Users\subhashinima\Downloads\infinite\C#\Assignments\assignment_2\assignment_2\obj\Debug\assignment_2.exe
+C:\Users\subhashinima\Downloads\infinite\C#\Assignments\assignment_2\assignment_2\obj\Debug\assignment_2.pdb
