@@ -1,0 +1,6 @@
+C:\infinite\C#\Assignments\Assignment_7\ConcessionLib\bin\Debug\ConcessionLib.dll
+C:\infinite\C#\Assignments\Assignment_7\ConcessionLib\bin\Debug\ConcessionLib.pdb
+C:\infinite\C#\Assignments\Assignment_7\ConcessionLib\obj\Debug\ConcessionLib.csproj.AssemblyReference.cache
+C:\infinite\C#\Assignments\Assignment_7\ConcessionLib\obj\Debug\ConcessionLib.csproj.CoreCompileInputs.cache
+C:\infinite\C#\Assignments\Assignment_7\ConcessionLib\obj\Debug\ConcessionLib.dll
+C:\infinite\C#\Assignments\Assignment_7\ConcessionLib\obj\Debug\ConcessionLib.pdb

@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ConcessionLib;
+
+namespace Assignment_7
+{
+
+    class concession
+    {
+        const double TotalFare = 500;
+
+        static void Main()
+        {
+            Console.Write("Enter Name: ");
+            string name = Console.ReadLine();
+
+            Console.Write("Enter Age: ");
+            int age = int.Parse(Console.ReadLine());
+
+            Concession c = new Concession();
+            c.CalculateConcession(age, TotalFare);
+        }
+    }
+}
