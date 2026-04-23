@@ -1,0 +1,7 @@
+C:\infinite\C#\Assessments\Assessment_4\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+C:\infinite\C#\Assessments\Assessment_4\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\infinite\C#\Assessments\Assessment_4\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\infinite\C#\Assessments\Assessment_4\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\infinite\C#\Assessments\Assessment_4\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\infinite\C#\Assessments\Assessment_4\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\infinite\C#\Assessments\Assessment_4\FactoryMethod\obj\Debug\FactoryMethod.pdb
